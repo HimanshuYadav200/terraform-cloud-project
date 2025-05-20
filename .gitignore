@@ -1,0 +1,15 @@
+# Terraform state & local files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# VSCode server files
+.vscode-server/
+
+# PEM keys
+*.pem
+
+# Logs and editor backups
+*.log
+*~
