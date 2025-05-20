@@ -1,0 +1,12 @@
+# Terraform state & local files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# PEM keys
+*.pem
+
+# Logs and editor backups
+*.log
+*~
